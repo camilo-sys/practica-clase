@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "DM sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: left;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: brown;
+    cursor: col-resize;
+    font-weight: bold;
+}
+a:hover{
+    color: black;
+    font-size: 1.5em;
+}
+a:visited {
+    color: chocolate;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#contenedor{
+    width: 50%;
+    margin: 0 auto;
+    border: 2px solid rgb(48, 15, 2);
+    padding: 20px;
+    border-radius: 20px;
+    text-align:justify center;
+}
+#seccion-del-cargo{
+    text-align: center;
+}
+
+#seccion-imagen {
+    display: flex;
+    justify-content: space-around;
+}
+#seccion-imagen img {
+    width: 20%;
+}
+#seccion-imagen div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
